@@ -33,3 +33,7 @@ main
   background: lightCoral;
   display: table-cell
 }
+main
+{
+  color:red;
+}
